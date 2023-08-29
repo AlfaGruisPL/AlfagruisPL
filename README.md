@@ -7,6 +7,8 @@ Technologie:
 ![test](https://img.shields.io/badge/PHP-silver?logo=php)
 ![test](https://img.shields.io/badge/MySql-silver?logo=mysql)
 ![test](https://img.shields.io/badge/Ionic-silver?logo=ionic)
+![test](https://img.shields.io/badge/Typeform-silver?logo=typeform)
+![test](https://img.shields.io/badge/NestJS-silver?logo=nestjs)
 
 Platformy:
 
