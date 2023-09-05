@@ -1,14 +1,14 @@
 ### Hi there 👋
 Technologie:
 
-![test](https://img.shields.io/badge/javascript-silver?logo=javascript)
-![test](https://img.shields.io/badge/Angular-silver?logo=angular)
-![test](https://img.shields.io/badge/TypeScript-silver?logo=typescript)
-![test](https://img.shields.io/badge/PHP-silver?logo=php)
-![test](https://img.shields.io/badge/MySql-silver?logo=mysql)
-![test](https://img.shields.io/badge/Ionic-silver?logo=ionic)
-![test](https://img.shields.io/badge/Typeform-silver?logo=typeform)
-![test](https://img.shields.io/badge/NestJS-silver?logo=nestjs)
+![test](https://img.shields.io/badge/javascript-2465ff?logo=javascript)
+![test](https://img.shields.io/badge/Angular-2465ff?logo=angular)
+![test](https://img.shields.io/badge/TypeScript-2465ff?logo=typescript)
+![test](https://img.shields.io/badge/PHP-2465ff?logo=php)
+![test](https://img.shields.io/badge/MySql-2465ff?logo=mysql)
+![test](https://img.shields.io/badge/Ionic-2465ff?logo=ionic)
+![test](https://img.shields.io/badge/TypeORM-2465ff)
+![test](https://img.shields.io/badge/NestJS-2465ff?logo=nestjs)
 
 Platformy:
 
