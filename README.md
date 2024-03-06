@@ -17,7 +17,7 @@ Platformy:
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wiener_Wuerstchen_fcm.jpg/1200px-Wiener_Wuerstchen_fcm.jpg" alt="drawing" width="200"/>   | Strona z parówkami | link do strony |
+| <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wiener_Wuerstchen_fcm.jpg/1200px-Wiener_Wuerstchen_fcm.jpg](https://github.com/AlfaGruisPL/AlfagruisPL/blob/main/foundation.png)" alt="drawing" width="200"/>   | Strona z parówkami | link do strony |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wiener_Wuerstchen_fcm.jpg/1200px-Wiener_Wuerstchen_fcm.jpg" alt="drawing" width="200"/>   | Strona z parówkami | link do strony |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wiener_Wuerstchen_fcm.jpg/1200px-Wiener_Wuerstchen_fcm.jpg" alt="drawing" width="200"/>   | Strona z parówkami | link do strony |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wiener_Wuerstchen_fcm.jpg/1200px-Wiener_Wuerstchen_fcm.jpg" alt="drawing" width="200"/>   | Strona z parówkami | link do strony |
