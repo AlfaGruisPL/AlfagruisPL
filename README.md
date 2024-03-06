@@ -15,9 +15,9 @@ Platformy:
 ![test](https://img.shields.io/badge/Android-silver?logo=android)
 ![test](https://img.shields.io/badge/Przeglądarka-silver?logo=firefoxbrowser)
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| <img src="https://github.com/AlfaGruisPL/AlfagruisPL/blob/main/foundation.png" alt="drawing" width="200"/>   | Благодійний фонд - могутність народу - Charitable foundation page | [Link to page - powepeople.com](https://powepeople.com/) |
+| Image        | Title           | Preview  | Repository |
+|:------------- |:-------------:|:-----:|:-------|
+| <img src="https://github.com/AlfaGruisPL/AlfagruisPL/blob/main/foundation.png" alt="drawing" width="200"/>   | Благодійний фонд - могутність народу - <br/> Charitable foundation page | [Link to page -<br/> powepeople.com](https://powepeople.com/) | ![repository](https://github.com/Korneliia08/roomDesign) | 
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wiener_Wuerstchen_fcm.jpg/1200px-Wiener_Wuerstchen_fcm.jpg" alt="drawing" width="200"/>   | Strona z parówkami | link do strony |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wiener_Wuerstchen_fcm.jpg/1200px-Wiener_Wuerstchen_fcm.jpg" alt="drawing" width="200"/>   | Strona z parówkami | link do strony |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wiener_Wuerstchen_fcm.jpg/1200px-Wiener_Wuerstchen_fcm.jpg" alt="drawing" width="200"/>   | Strona z parówkami | link do strony |
