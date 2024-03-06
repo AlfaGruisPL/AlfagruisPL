@@ -15,6 +15,14 @@ Platformy:
 ![test](https://img.shields.io/badge/Android-silver?logo=android)
 ![test](https://img.shields.io/badge/Przeglądarka-silver?logo=firefoxbrowser)
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wiener_Wuerstchen_fcm.jpg/1200px-Wiener_Wuerstchen_fcm.jpg" alt="drawing" width="200"/>   | Strona z parówkami | link do strony |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wiener_Wuerstchen_fcm.jpg/1200px-Wiener_Wuerstchen_fcm.jpg" alt="drawing" width="200"/>   | Strona z parówkami | link do strony |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wiener_Wuerstchen_fcm.jpg/1200px-Wiener_Wuerstchen_fcm.jpg" alt="drawing" width="200"/>   | Strona z parówkami | link do strony |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wiener_Wuerstchen_fcm.jpg/1200px-Wiener_Wuerstchen_fcm.jpg" alt="drawing" width="200"/>   | Strona z parówkami | link do strony |
+ 
+
 
 <!--
 **AlfaGruisPL/AlfagruisPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
