@@ -19,8 +19,8 @@ Platformy:
 |:------------- |:-------------:|:-----:|:-------|
 | <img src="https://github.com/AlfaGruisPL/AlfagruisPL/blob/main/foundation.png" alt="drawing" width="200"/>   | Благодійний фонд - могутність народу - <br/> Charitable foundation page (API, dataBase) | [Link to page -<br/> powepeople.com](https://powepeople.com/) | ![repository](https://github.com/Korneliia08/roomDesign) | 
 | <img src="https://th.bing.com/th/id/OIG1.PAyNSHdKSTCNFOFwfFhb?pid=ImgGn" alt="drawing" width="200"/>   | FreeLance-Python-Bot | ----| ![repository](https://github.com/AlfaGruisPL/FreeLance-Python-Bot)
-| <img src="https://github.com/AlfaGruisPL/StacjaDomowa/blob/master/src/assets/readme/website1.png" alt="drawing" width="200"/>   | Stacja pogodowa | link do strony |00
-| <img src="https://github.com/AlfaGruisPL/MagazynMobile/blob/description/image3.jpg" alt="drawing" width="200"/>   | Stacja pogodowa | link do strony |00
+| <img src="https://github.com/AlfaGruisPL/StacjaDomowa/blob/master/src/assets/readme/website1.png" alt="drawing" width="200"/>   | Home Weather Station | --- | ![repository](https://github.com/AlfaGruisPL/Home-Weather-Station)
+| <img src="https://github.com/AlfaGruisPL/MagazynMobile/blob/description/image3.jpg" alt="drawing" width="200"/>   | Electronic-Components-Storage-System| --- | ![repository](hhttps://github.com/AlfaGruisPL/Electronic-Components-Storage-System)
  
  
 <!--
