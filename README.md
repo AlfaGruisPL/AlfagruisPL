@@ -1,5 +1,5 @@
-### Hi there 👋
 ![Linkedin](https://www.linkedin.com/in/mateusz-osikowski-a594ab30a/)
+
 Technologie:
 
 ![test](https://img.shields.io/badge/javascript-2465ff?logo=javascript)
